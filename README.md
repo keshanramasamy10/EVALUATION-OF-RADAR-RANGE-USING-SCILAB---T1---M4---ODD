@@ -38,3 +38,5 @@ Where:
 ---
 
 ## MODEL GRAPH
+<img width="1194" height="1600" alt="WhatsApp Image 2026-09-25 at 1 49 44 PM" src="https://github.com/user-attachments/assets/fcb6acb7-1c8d-4283-940f-1ddf1aeb96e5" />
+<img width="1600" height="1328" alt="WhatsApp Image 2026-09-25 at 1 50 00 PM" src="https://github.com/user-attachments/assets/18a2eb0c-ba51-46c9-b340-490bc2fecd5b" />
